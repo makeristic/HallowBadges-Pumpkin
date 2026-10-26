@@ -642,7 +642,6 @@
       (xy 9.867381 -19.284912) (xy 9.994748 -19.324603) (xy 10.121784 -19.363041) (xy 10.241664 -19.398027)
       (xy 10.317322 -19.419193) (xy 10.782168 -19.538039) (xy 11.223523 -19.633126) (xy 11.6518 -19.706045)
       (xy 12.077415 -19.758384) (xy 12.510782 -19.791731) (xy 12.848167 -19.80526) (xy 13.410118 -19.802126)) (layer F.SilkS) (width 0.01))
-    (fp_line (start -20.5986 -29.9287) (end -20.5986 -29.9287) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -20.5986 -29.9287) (end -20.7127 -29.9854) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -20.7127 -29.9854) (end -20.8047 -30.0286) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -20.8047 -30.0286) (end -20.8965 -30.0702) (layer Edge.Cuts) (width 0.1))
@@ -4061,7 +4060,6 @@
     (fp_line (start -20.6812 -30.176) (end -20.6479 -30.0809) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -20.6479 -30.0809) (end -20.6083 -29.9617) (layer Edge.Cuts) (width 0.1))
     (fp_line (start -20.6083 -29.9617) (end -20.5986 -29.9287) (layer Edge.Cuts) (width 0.1))
-    (fp_line (start -20.5986 -29.9287) (end -20.5986 -29.9287) (layer Edge.Cuts) (width 0.1))
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder (layer B.Cu) (tedit 5F68FEEE) (tstamp 5F87CF6D)
